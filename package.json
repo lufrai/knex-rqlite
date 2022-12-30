@@ -65,7 +65,7 @@
     "lodash": "^4.17.15",
     "mallery": "1.0.0-alpha.3",
     "micromatch": "^4.0.2",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.2",
     "null-loader": "^3.0.0",
     "nyc": "^15.0.0",
